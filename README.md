@@ -1,65 +1,40 @@
-# 👋 Hi, I'm Aishwarya Robin Kandikatla
+# Aishwarya Robin Kandikatla
 
-💻 Frontend-Focused Software Engineer (4.5+ yrs React)
-⚙️ Backend Experience with Flask | Exploring GenAI Systems
+Frontend engineer with **4.5+ years in React**, building full-stack GenAI applications that ship to production — not just demos.
 
-I build scalable, user-focused applications with a strong emphasis on performance, clean architecture, and real-world deployment. Recently, I’ve been integrating **Generative AI into full-stack systems**.
+`React` `Flask` `Python` `Groq API` `RAG` `SSE Streaming` `Vercel + Render`
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aishwaryarobink-dev&show_icons=true&hide_border=true&theme=default)
 
 ---
 
-## 🧠 Featured Project
+## 🩺 MediQuery — AI Medical Assistant
+🔗 [Live](https://mediquery-frontend.vercel.app) · [GitHub](https://github.com/aishwaryarobink-dev)
 
-### 🧠 MediQuery – AI Medical Assistant
+- Real-time streaming chat via **Server-Sent Events** — sub-100ms perceived response latency
+- Context-aware retrieval workflow (RAG-inspired) using **Groq API** for low-latency LLM inference
+- Full-stack: React + Vite frontend, Flask streaming backend, deployed on Vercel + Render
 
-🔗 Live: https://mediquery-frontend.vercel.app
-🔗 GitHub: https://github.com/aishwaryarobink-dev
+## 📄 DocuMind — Clinical AI Document Assistant
+🔗 [Live](https://documind-clinical-ai.vercel.app/)
 
-* Built a production-ready chat interface using React (Vite)
-* Implemented real-time streaming responses using SSE
-* Integrated LLM inference via Groq API (low latency)
-* Designed a context-aware retrieval system (RAG-inspired)
-* Developed Flask backend for streaming APIs
-* Deployed full-stack system using Vercel + Render
+- AI-powered document understanding platform built for **clinical workflows**
+- LLM-based document interaction with responsive React UI and scalable backend
+- Focused on usability for non-technical medical staff handling complex documents
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend (Primary Strength)**
-
-* React (4.5+ years)
-* JavaScript / ES6+
-* SCSS / UI Architecture
-
-**Backend**
-
-* Flask (Python)
-* REST APIs
-* Streaming (SSE)
-
-**AI / Tools**
-
-* Groq API (LLM)
-* Git & GitHub
-* Postman
+| Frontend | Backend & AI | Tools |
+|---|---|---|
+| React · Vite | Python · Flask | Git · GitHub |
+| JavaScript / ES6+ | REST + SSE APIs | Vercel · Render |
+| SCSS | Groq API · RAG | Postman |
+| Responsive design | Prompt engineering | AI orchestration (learning) |
 
 ---
 
-## 🚀 Current Focus
-
-* Building GenAI-powered applications
-* Strengthening backend & system design skills
-* Exploring scalable architectures for AI products
-
----
-
-## 📫 Connect With Me
-
-* 🔗 LinkedIn: https://linkedin.com/in/your-profile
-* 💻 GitHub: https://github.com/aishwaryarobink-dev
-
----
-
-## ⚡ Quick Note
-
-I enjoy working on products that combine **strong frontend UX with intelligent backend systems**, especially in the GenAI space.
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/aishwarya-robin-kandikatla)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aishwaryarobink-dev)
