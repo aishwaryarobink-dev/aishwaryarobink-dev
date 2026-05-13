@@ -1,23 +1,24 @@
 # Aishwarya Robin Kandikatla
 
-Frontend engineer with around **5 years in React**, building full-stack GenAI applications that ship to production — not just demos.
+Frontend engineer with **5+ years in React**, building full-stack GenAI applications that ship to production — not just demos.
 
 `React` `Flask` `Python` `Groq API` `RAG` `SSE Streaming` `Vercel + Render`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aishwaryarobink-dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryarobink-dev&layout=compact&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aishwaryarobink-dev&hide_border=true&mode=weekly)](https://github.com/aishwaryarobink-dev)
 
 ---
 
 ## 🩺 MediQuery — AI Medical Assistant
-🔗 [Live](https://mediquery-frontend.vercel.app) · [GitHub](https://github.com/aishwaryarobink-dev/mediquery-frontend)
+
+<a href="https://mediquery-frontend.vercel.app" target="_blank">🔗 Live</a> · <a href="https://github.com/aishwaryarobink-dev/mediquery-frontend" target="_blank">GitHub</a>
 
 - Real-time streaming chat via **Server-Sent Events** — sub-100ms perceived response latency
 - Context-aware retrieval workflow (RAG-inspired) using **Groq API** for low-latency LLM inference
 - Full-stack: React + Vite frontend, Flask streaming backend, deployed on Vercel + Render
 
 ## 📄 DocuMind — Clinical AI Document Assistant
-🔗 [Live](https://documind-clinical-ai.vercel.app/) · [GitHub](https://github.com/aishwaryarobink-dev/DocuMind)
+
+<a href="https://documind-clinical-ai.vercel.app/" target="_blank">🔗 Live</a> · <a href="https://github.com/aishwaryarobink-dev/DocuMind" target="_blank">GitHub</a>
 
 - AI-powered document understanding platform built for **clinical workflows**
 - LLM-based document interaction with responsive React UI and scalable backend
@@ -37,5 +38,6 @@ Frontend engineer with around **5 years in React**, building full-stack GenAI ap
 ---
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwarya-robin-kandikatla/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aishwaryarobink-dev)
+
+<a href="https://www.linkedin.com/in/aishwarya-robin-kandikatla/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://github.com/aishwaryarobink-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
